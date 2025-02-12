@@ -1,9 +1,10 @@
-xy# myFirstRepository
+# myFirstRepository
 fg
 
 my first local contribution for github
 
-my first remote contribution from GitHub
+ill do it again 
 
+ok, for a second time 
 
-more DLCS 
+it doesnt work, ill do it agaaaain 
